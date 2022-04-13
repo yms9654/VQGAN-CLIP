@@ -1,0 +1,1 @@
+./zoom.sh "A painting of a red telephone box spinning through a time vortex" Telephone.png 50
